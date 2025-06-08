@@ -4,6 +4,7 @@ This project focuses on Sentiment Analysis using text classification models. The
 
 ## Dataset
 We are using the Twitter Sentiment Analysis dataset, sourced publicly from Kaggle https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?select=twitter_training.csv
+
 It contains:
 - twitter_training.csv - used for model training and evaluation.
 - twitter_validation.csv - used for final validation.
@@ -15,7 +16,23 @@ Each record contains:
 - Tweet text
 
 ## Repository Structure
+Sentiment_Analysis-Group11/
 
+│── data/ # Contains the training and validation datasets
 
+│── notebooks/ # Contains the collab notebook for models' development
+
+│── outputs/ # Contains the best saved models
+
+│── README.md # Project documentation
+
+## Instructions for Reproducing Results
+Download the Datasets: The training and validation datasets are located in the data/ folder (Sentiment_Analysis-Group11/data/).
+
+Open the Notebooks: The Colab notebooks, which contain the full workflow of both the traditional and deep learning models (preprocessing, model training, evaluation, and saving), are located in the notebooks/ folder (Sentiment_Analysis-Group11/notebooks/).
+
+Upload the Datasets: Upload the train and test datasets to the file browser in Colab. Alternatively, upload the datasets to your Google Drive and mount your drive to access them.
+
+Run the code: Execute the notebooks step by step to preprocess the data, train the model, and evaluate results.
 
 
