@@ -5,6 +5,11 @@ This project focuses on Sentiment Analysis using text classification models. The
 ## Dataset
 We are using the Twitter Sentiment Analysis dataset, sourced publicly from Kaggle https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?select=twitter_training.csv
 
+We are using the publicly available **Twitter Entity Sentiment Analysis** dataset from Kaggle:  
+🔗 [View on Kaggle](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+
+It includes:
+
 It contains:
 - twitter_training.csv - used for model training and evaluation.
 - twitter_validation.csv - used for final validation.
