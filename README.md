@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Group11
+# Sentiment Analysis-Group11
 
 This project focuses on Sentiment Analysis using text classification models. The goal is to classify tweets into sentiment categories (Positive, Negative, Neutral) using both traditional machine learning and deep learning approaches.
 
@@ -17,7 +17,7 @@ Each record contains:
 - Tweet text
 
 ## Repository Structure
-Sentiment_Analysis-Group11/
+Sentiment-Analysis-Group11/
 
 │── data/ # Contains the training and validation datasets
 
@@ -28,12 +28,10 @@ Sentiment_Analysis-Group11/
 │── README.md # Project documentation
 
 ## Instructions for Reproducing Results
-Download the Datasets: The training and validation datasets are located in the data/ folder (Sentiment_Analysis-Group11/data/).
+Download the Datasets: The training and validation datasets are located in the data/ folder (Sentiment-Analysis-Group11/data/).
 
-Open the Notebooks: The Colab notebooks, which contain the full workflow of both the traditional and deep learning models (preprocessing, model training, evaluation, and saving), are located in the notebooks/ folder (Sentiment_Analysis-Group11/notebooks/).
+Open the Notebooks: The Colab notebooks, which contain the full workflow of both the traditional and deep learning models (preprocessing, model training, evaluation, and saving), are located in the notebooks/ folder (Sentiment-Analysis-Group11/notebooks/).
 
 Upload the Datasets: Upload the train and test datasets to the file browser in Colab. Alternatively, upload the datasets to your Google Drive and mount your drive to access them.
 
 Run the code: Execute the notebooks step by step to preprocess the data, train the model, and evaluate results.
-
-
