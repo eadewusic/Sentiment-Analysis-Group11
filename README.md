@@ -1,2 +1,21 @@
 # Sentiment-Analysis-Group11
-In this assignment, you will develop a text classification system, focusing on sentiment analysis. You will explore and compare at least two models: one traditional machine learning model (e.g., Logistic Regression, SVM, Naïve Bayes) and one deep learning model (e.g., RNN, LSTM, GRU)
+
+This project focuses on Sentiment Analysis using text classification models. The goal is to classify tweets into sentiment categories (Positive, Negative, Neutral) using both traditional machine learning and deep learning approaches.
+
+## Dataset
+We are using the Twitter Sentiment Analysis dataset, sourced publicly from Kaggle https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?select=twitter_training.csv
+It contains:
+- twitter_training.csv - used for model training and evaluation.
+- twitter_validation.csv - used for final validation.
+
+Each record contains:
+- Tweet ID
+- Entity
+- Sentiment Label (Positive, Negative, Neutral)
+- Tweet text
+
+## Repository Structure
+
+
+
+
